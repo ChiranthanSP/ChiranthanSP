@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiranthanSP
+- 👋 Hi, I’m Chiranthan.S.P
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning 7 Grade
 - 💞️ I’m looking to collaborate on ...
