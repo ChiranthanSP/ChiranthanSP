@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 7 Grade
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:-
--        Mobile: +91 63622 64275, 
+-        Mobile: +91 63622 64275
 -        Email: chiruvasista10@gmail.com
 
 <!---
